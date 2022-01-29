@@ -8,10 +8,28 @@ header p {
 
 body {
     background-color: black;
+    text-align: center;
 }
 
 a {
     color: Aquamarine;
     font-size: 16px;
     text-align: center;
+}
+
+#sectionTitle {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+section p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    color: gray;
+    text-align: right;
 }
